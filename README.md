@@ -32,7 +32,14 @@ e os ganhos financeiros dos atletas, além da evolução dos modelos de regress�
 ![First Serve Return vs Ganhos](02_firstservereturn_vs_winnings.png)
 
 ### Previsões vs Ganhos Reais (Recurso Único)
-![Modelo Múltiplas Características](qualquer_coisa_aqui.png)
+![Modelo Recurso Único](03_single_feature_model.png)
+
+### Previsões vs Ganhos Reais (Duas Características)
+![Modelo Duas Características](04_two_features_model.png)
+
+### Previsões vs Ganhos Reais (Múltiplas Características)
+![Modelo Múltiplas Características](05_multiple_features_model.png)
+
 
 
 
