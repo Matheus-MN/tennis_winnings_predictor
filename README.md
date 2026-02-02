@@ -46,6 +46,7 @@ e os ganhos financeiros dos atletas, além da evolução dos modelos de regress�
 
 
 
+
 ### Previsões vs Ganhos Reais (Duas Características)
 ![Modelo Duas Características](04_two_features_model.png)
 
