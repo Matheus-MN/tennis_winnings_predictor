@@ -34,9 +34,11 @@ e os ganhos financeiros dos atletas, além da evolução dos modelos de regress�
 ### Previsões vs Ganhos Reais (Recurso Único)
 ![Modelo Recurso Único](03_single_feature_model.png)
 
+### Previsões vs Ganhos Reais (Duas Características)
+![Modelo Duas Características](04_two_features_model.png)
+
 ### Previsões vs Ganhos Reais (Múltiplas Características)
 ![Modelo Múltiplas Características](model_multiple.png)
-
 
 
 
