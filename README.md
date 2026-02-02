@@ -19,3 +19,24 @@ como métricas esportivas influenciam os ganhos financeiros dos atletas.
 - Scikit-learn
 
 Projeto com fins educacionais.
+
+## 📊 Visualizações Geradas
+
+Os gráficos abaixo demonstram a relação entre métricas de desempenho esportivo
+e os ganhos financeiros dos atletas, além da evolução dos modelos de regressão.
+
+### Break Points Opportunities vs Winnings
+![Break Points vs Winnings](images/breakpoints_vs_winnings.png)
+
+### First Serve Return Points Won vs Winnings
+![First Serve Return vs Winnings](images/first_serve_return_vs_winnings.png)
+
+### Predicted vs Actual Winnings (Single Feature)
+![Single Feature Model](images/predicted_vs_actual_single.png)
+
+### Predicted vs Actual Winnings (Two Features)
+![Two Features Model](images/predicted_vs_actual_two.png)
+
+### Predicted vs Actual Winnings (Multiple Features)
+![Multiple Features Model](images/predicted_vs_actual_multiple.png)
+
