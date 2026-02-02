@@ -25,18 +25,17 @@ Projeto com fins educacionais.
 Os gráficos abaixo demonstram a relação entre métricas de desempenho esportivo
 e os ganhos financeiros dos atletas, além da evolução dos modelos de regressão.
 
-### Break Points Opportunities vs Winnings
-![Break Points vs Winnings](images/breakpoints_vs_winnings.png)
+### Oportunidades de Break Points vs Ganhos
+![Break Points vs Ganhos](01_breakpoints_vs_winnings.png)
 
-### First Serve Return Points Won vs Winnings
-![First Serve Return vs Winnings](images/first_serve_return_vs_winnings.png)
+### Pontos ganhos no retorno do primeiro saque vs Ganhos
+![First Serve Return vs Ganhos](02_firstservereturn_vs_winnings.png)
 
-### Predicted vs Actual Winnings (Single Feature)
-![Single Feature Model](images/predicted_vs_actual_single.png)
+### Previsões vs Ganhos Reais (Recurso Único)
+![Modelo Recurso Único](03_single_feature_model.png)
 
-### Predicted vs Actual Winnings (Two Features)
-![Two Features Model](images/predicted_vs_actual_two.png)
+### Previsões vs Ganhos Reais (Duas Características)
+![Modelo Duas Características](04_two_features_model.png)
 
-### Predicted vs Actual Winnings (Multiple Features)
-![Multiple Features Model](images/predicted_vs_actual_multiple.png)
-
+### Previsões vs Ganhos Reais (Múltiplas Características)
+![Modelo Múltiplas Características](05_modelo_de_múltiplas_características.png)
